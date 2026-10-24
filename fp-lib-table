@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Antel Library") (type "KiCad") (uri "${KIPRJMOD}/Antel Library.pretty") (options "") (descr ""))
+)
