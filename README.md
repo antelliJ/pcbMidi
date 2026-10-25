@@ -1,6 +1,9 @@
 # musicDevice
 A small MIDI capable keypad powered by an esp32-s3 for native USB compatibility
 
+<img width="555" height="371" alt="Screenshot 2026-10-25 173044" src="https://github.com/user-attachments/assets/5828e6e9-7e5c-4425-8be3-18b6c7b702eb" />
+
+
 Components
 - EC11 Rotary encoder
 - SK6812 MINI-E neopixels
@@ -10,6 +13,10 @@ Components
 The midi keys are built to be activated by capacitive touch based on the exposed copper on the PCB
 
 I built this since I don't have a lot of space for an entire keyboard, so something simple can hopefully allow me to get something ready quickly if necessary
+The lights on the back should also add a nice touch and some element of customizability
+
+<img width="389" height="356" alt="pcb back Screenshot 2026-10-24 101311" src="https://github.com/user-attachments/assets/3d34d932-b2f9-44b4-95b4-2954b8a09a07" />
+
 
 
 ### Usage
@@ -20,6 +27,9 @@ MIDI configuration is dependent on the user's configuration
 
 ### 3D Casing
 Included in the `\3dModels\` directory are another two directories, one (`\editable\`) with the original editable kicad file for the enclosure. The other (`\printable\`) is where print ready 3mf files for the case are provided
+
+<img width="833" height="500" alt="Screenshot 2026-10-25 184453" src="https://github.com/user-attachments/assets/af30f714-0aff-44b3-af97-6220086148f7" />
+
 
 ### Bill of Materials
 
