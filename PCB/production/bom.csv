@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,Total Cost (USD),LCSC Part #,Description,Supplier,URL,Alternative
+"D1, D2, D3",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,3,SK6812MINI-E,2.55,,Addressable LEDs behind keycaps,AliExpress,https://www.aliexpress.com/item/1005005193716172.html,https://jlcpcb.com/partdetail/SK6812MINI-E/C5149201
+J1,Capacitive Keys,1,Capacitive Touch Buttons,,,Capacitive touch buttons,,,
+"RV1, RV2",Potentiometer_Bourns_PTA1543_Single_Slide,2,R_Potentiometer,2.54,,Sliding potentiometers,AliExpress,https://www.aliexpress.com/item/1005003684684538.html,https://www.mouser.ca/en/ProductDetail/Bourns/PTA1543-2015CIA103
+"SW1, SW2, SW3",Kailh Choc Low-Profile Switches,3,SW_Push,9.21,,Mechanical keys; Kailh Choc low-profile switches,AliExpress,https://www.aliexpress.com/item/1005006120461718.html,
+SW4,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,,,Rotary encoder knob/input; already owned,Already Owned,,
+U1,Waveshare ESP32-S3-Zero,1,Waveshare ESP32-S3-ZERO,8.24,,Small-form-factor ESP32-S3 board; natively supported by KMK,AliExpress,https://www.aliexpress.com/item/1005012733231291.html,
+,,,,,,,,,
+,,,JLCPCB,2,,,,,
+,,,,,,,,,
+,,,TOTAL,24.54,,,,,
