@@ -25,6 +25,8 @@ Use [kmk firmware](https://github.com/KMKfw/kmk_firmware/tree/main) to get a cir
 
 MIDI configuration is dependent on the user's configuration
 
+A test program `main.py` is included in the `\Code\` with the rest KMK repository alongside it to simplify organization
+
 ### 3D Casing
 Included in the `\3dModels\` directory are another two directories, one (`\editable\`) with the original editable kicad file for the enclosure. The other (`\printable\`) is where print ready 3mf files for the case are provided
 
@@ -45,3 +47,8 @@ Included in the `\3dModels\` directory are another two directories, one (`\edita
 ### References
 Based on the tutorial created by [KaiPerira](https://github.com/KaiPereira/midi-keypad)
 
+Includes the [kmk firmware](https://github.com/KMKfw/kmk_firmware/tree/main) repository
+
+
+#### Ai Declaration
+Test circuitPython code was created by chatGPT
